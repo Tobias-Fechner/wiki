@@ -1,0 +1,15 @@
+
+![[Pasted image 20240302132707.png]]
+Liam Kurmos, a native of Wales, grew up immersed in the natural beauty of Anglesey, where his early years were spent roaming fields, climbing trees, and exploring the digital realms of a ZX Spectrum on his family's organic farm. This blend of rural life and early technological engagement laid the groundwork for what would become a diverse and impactful career.  
+  
+In 1995, Liam embarked on a journey of academic and personal exploration at the University of Sussex, where he pursued a degree in Physics with a minor in Japanese. This unique combination of studies not only broadened his scientific horizons but also opened the door to a multi-year stay in Japan. There, he achieved fluency in Japanese, absorbing the culture and technological innovations that would later influence his professional endeavors.  
+  
+Liam's academic pursuits continued at Uppsala University in Sweden, where he contributed to research utilizing data from a neutrino telescope in Antarctica. His insatiable curiosity and dedication to science led him back to Sussex for a Master's in Particle Cosmology, further deepening his understanding of the universe's fundamental forces and structures.  
+  
+The subsequent decade saw Liam traversing Asia, where his experiences further enriched his worldview. This period of exploration was a precursor to his venture into Computer Science through a funded Master's program at Bangor University. It was here that Liam began to meld his diverse interests and skills, working on funded projects and lecturing while initiating a PhD in Computational Topology and launching a software startup.  
+  
+In 2017, Liam's journey culminated in the founding of the AstralShip project, a visionary initiative aimed at fostering high-impact innovation through a regenerative lens. The project draws inspiration from a myriad of sources that have shaped Liam's path: the holistic science perspectives of Fritjof Capra, his experiences with the forward-thinking Japanese software company Dream Access, the conceptual designs of Project Mind—an unfulfilled venture into Lurianic Kabbalah and innovation incubation—and a transformative sailing trip to Ireland with his friend Mike in 2010.  
+  
+The AstralShip project is more than an innovation hub; it is a testament to Liam's belief in the power of human consciousness to transcend existential risks and forge a regenerative planetary society. Through intense effort of heart and creative mind, Liam believes in a world where innovation, community, and sustainability converge to create a bright future for humanity.  
+  
+Liam Kurmos is not just a scientist, entrepreneur, or explorer; he is a pioneer at the intersection of technology, spirituality, and environmental stewardship. His leadership of the AstralShip project embodies a commitment to leveraging human ingenuity and compassion to navigate the challenges of our time, steering us toward a harmonious and sustainable global community.
