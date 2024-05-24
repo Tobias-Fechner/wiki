@@ -1,0 +1,73 @@
+@font-face {font-family: "Virgil";src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/woff2-cffbased/BebasNeue-Regular.woff2");}
+@font-face {font-family: "Cascadia";src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/woff2-cffbased/BebasNeue-Regular.woff2");}
+@font-face {font-family: "Assistant";src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/woff2-cffbased/BebasNeue-Regular.woff2");}
+@font-face {font-family: "Assistant";src: url("https://github.com/dharmatype/Bebas-Neue/blob/master/fonts/BebasNeue(2018)ByDhamraType/woff2-cffbased/BebasNeue-Regular.woff2");}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div.markdown-embed-title {
+  display: none;
+}
+
+div.markdown-embed {
+  border: none;
+  padding: 0px;
+  background-color: inherit;
+}
+
+div.excalidraw-svg {
+	/*width: fit-content;*/
+	height: 100%>
+}
+
+svg.excalidraw-svg {
+	max-width:100%;
+	max-height: 90vh;
+	width: var(--page-width);
+}
+
+svg.excalidraw-svg.ex-pageheight {
+	width: initial;
+	height: 100%;
+}
+
+svg.excalidraw-svg.ex-pagewidth {
+	width: 90vw;
+	height: initial;
+}
+
+.excalidraw-svg .text {
+  width: 100%;
+  text-align: center;
+}
+
+div.excalidraw-svg.enlarged {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+	--background-primary: #FFF6F0;
+}
+
+a.site-body-left-column-site-name {
+	display: none;
+}
+
+div.site-footer {
+	display: false;
+}
