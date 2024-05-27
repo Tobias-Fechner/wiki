@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient22">
+      <stop
+         style="stop-color:#00f5fc;stop-opacity:1;"
+         offset="0"
+         id="stop22" />
+      <stop
+         style="stop-color:#00ff08;stop-opacity:1;"
+         offset="1"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient20">
+      <stop
+         style="stop-color:#3fecf1;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+      <stop
+         style="stop-color:#11ee18;stop-opacity:1;"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient28"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="227.92957"
+       y2="56.111183" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient29"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient30"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="227.05565"
+       y2="54.925541" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient32"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="276.90939"
+       y2="55.220642" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient22"
+       id="linearGradient36"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-294.64619)"
+       x1="561.58582"
+       y1="31.259211"
+       x2="595"
+       y2="31.259211" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient40"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="322.50516"
+       y2="57.536053" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient41"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient42"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient43"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient44"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient45"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient50"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <linearGradient
+       xlink:href="#linearGradient20"
+       id="linearGradient51"
+       gradientUnits="userSpaceOnUse"
+       x1="203.133"
+       y1="55.933075"
+       x2="253.75529"
+       y2="55.933075" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220">
+      <rect
+         style="font-variation-settings:normal;opacity:1;fill:#00ffa4;fill-opacity:1;stroke:#ffffff;stroke-width:3.47903;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.47903, 6.95809;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect221"
+         width="299.83115"
+         height="299.83115"
+         x="620.08441"
+         y="0.16885431"
+         ry="0.75230277" />
+    </clipPath>
+  </defs>
+  <rect
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#003a53;fill-opacity:1;stroke:none;stroke-width:0.572759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none"
+     id="rect226"
+     width="300"
+     height="300"
+     x="-2.3651123e-06"
+     y="0" />
+  <circle
+     style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#aa5fdf;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     id="circle1"
+     cx="770"
+     cy="212.21504"
+     r="157.09381"
+     clip-path="url(#clipPath220)"
+     mask="none"
+     transform="translate(-620)" />
+  <text
+     xml:space="preserve"
+     style="font-size:12.7px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+     x="238.01007"
+     y="24.118328"
+     id="text10"><tspan
+       id="tspan10"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       x="238.01007"
+       y="24.118328">graduating</tspan></text>
+  <circle
+     style="fill:none;stroke:#aa5fdf;stroke-width:0.57276;-inkscape-stroke:none"
+     id="circle10"
+     cx="150"
+     cy="220.2028"
+     r="114.80206" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.128px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient36);stroke:none;stroke-width:0.340635;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.340635, 0.681268;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     x="266.60638"
+     y="34.104012"
+     id="text19"><tspan
+       id="tspan19"
+       style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient36);fill-opacity:1;stroke:none;stroke-width:0.340635;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.340635, 0.681268;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="266.60638"
+       y="34.104012">ALUMNI</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="69.633423"
+     y="91.085114"
+     id="text5"><tspan
+       id="tspan5"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="69.633423"
+       y="91.085114">knowledge commoning &amp; p2p learning</tspan></text>
+  <g
+     id="g25"
+     transform="matrix(0.7744,0,0,0.7744,-36.902282,53.849134)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient33);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient32);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text25"><tspan
+         id="tspan25"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient32);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">strange fish academy</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="73.603455"
+     y="176.91925"
+     id="text1"><tspan
+       id="tspan1"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="73.603455"
+       y="176.91925">HUGO</tspan></text>
+  <circle
+     style="fill:none;stroke:#aa5fdf;stroke-width:0.499999;-inkscape-stroke:none"
+     id="circle12"
+     cx="83.983032"
+     cy="207.2435"
+     r="16.126953" />
+  <g
+     id="g26"
+     transform="matrix(0.7744,0,0,0.7744,-91.149672,139.60137)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient31);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient30);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text26"><tspan
+         id="tspan26"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient30);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">seven vortex</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="128.65173"
+     y="40.84198"
+     id="text27"><tspan
+       id="tspan27"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="128.65173"
+       y="40.84198">seasoning</tspan></text>
+  <g
+     id="g28"
+     transform="matrix(0.7744,0,0,0.7744,-16.604652,3.60607)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient29);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient28);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text28"><tspan
+         id="tspan28"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient28);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">season</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="137.56494"
+     y="144.04674"
+     id="text39"><tspan
+       id="tspan39"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="137.56494"
+       y="144.04674">MARIO</tspan></text>
+  <circle
+     style="fill:none;stroke:#aa5fdf;stroke-width:0.499999;-inkscape-stroke:none"
+     id="circle39"
+     cx="149.99994"
+     cy="174.37099"
+     r="16.126953" />
+  <g
+     id="g40"
+     transform="matrix(0.7744,0,0,0.7744,-53.978932,106.72887)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient41);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient40);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text40"><tspan
+         id="tspan40"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient40);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">REGENERATIVE KNOWLEDGE COMMONS</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="206.14966"
+     y="176.91925"
+     id="text41"><tspan
+       id="tspan41"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="206.14966"
+       y="176.91925">DAVE</tspan></text>
+  <circle
+     style="fill:none;stroke:#aa5fdf;stroke-width:0.499999;-inkscape-stroke:none"
+     id="circle41"
+     cx="216.01697"
+     cy="207.2435"
+     r="16.126953" />
+  <g
+     id="g42"
+     transform="matrix(0.7744,0,0,0.7744,48.121428,139.60137)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient43);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient42);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text42"><tspan
+         id="tspan42"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient42);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">FED WIKI</tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:12.8064px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+     x="176.59833"
+     y="243.92046"
+     id="text43"><tspan
+       id="tspan43"
+       style="fill:#9fc2f3;fill-opacity:1;stroke-width:0.266802"
+       x="176.59833"
+       y="243.92046">mercy</tspan></text>
+  <circle
+     style="fill:none;stroke:#aa5fdf;stroke-width:0.499999;-inkscape-stroke:none"
+     id="circle43"
+     cx="190.07068"
+     cy="274.24472"
+     r="16.126953" />
+  <g
+     id="g44"
+     transform="matrix(0.7744,0,0,0.7744,25.765038,206.60258)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient45);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient44);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text44"><tspan
+         id="tspan44"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient44);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">wada</tspan></text>
+  </g>
+  <circle
+     style="fill:#aa5fdf;fill-opacity:1;stroke:#aa5fdf;stroke-width:0.499999;-inkscape-stroke:none"
+     id="circle48"
+     cx="109.92932"
+     cy="274.24469"
+     r="16.126953" />
+  <g
+     id="g49"
+     transform="matrix(0.7744,0,0,0.7744,-67.789232,206.60258)"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient51);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000">
+    <text
+       xml:space="preserve"
+       style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';font-variation-settings:normal;letter-spacing:0px;word-spacing:0px;vector-effect:none;fill:url(#linearGradient50);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       x="202.90015"
+       y="59.637405"
+       id="text49"><tspan
+         id="tspan49"
+         style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient50);fill-opacity:1;stroke:none;stroke-width:0.43987;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.43987, 0.879737;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         x="202.90015"
+         y="59.637405">your networks</tspan></text>
+  </g>
+</svg>

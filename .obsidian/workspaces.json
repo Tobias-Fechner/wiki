@@ -1,0 +1,202 @@
+{
+  "workspaces": {
+    "Welcome": {
+      "main": {
+        "id": "3f83c4aecd01c2a0",
+        "type": "split",
+        "children": [
+          {
+            "id": "7078d047ecb0e6b5",
+            "type": "split",
+            "children": [
+              {
+                "id": "df05adb9a7501ee6",
+                "type": "tabs",
+                "dimension": 35.89981447124304,
+                "children": [
+                  {
+                    "id": "3e396039c9272d20",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Regenerative Economy/Value Creation.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8db432e8a85c2405",
+                "type": "tabs",
+                "dimension": 64.10018552875695,
+                "children": [
+                  {
+                    "id": "3decb669c5cc001b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "7f163f597a717065",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1295241ee3dc8798",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Site Map.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "409dbc5342beed5f",
+        "type": "split",
+        "children": [
+          {
+            "id": "defdf7135dbd993d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3a08a648852c249d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3f62028de0103508",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f9ab360f19748ca0",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "36e702182f7a938c",
+        "type": "split",
+        "children": [
+          {
+            "id": "76ecda902515606b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2abf00ca9f820e3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Regenerative Economy/Value Creation.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3e52a8bbb57cb5ec",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Regenerative Economy/Value Creation.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "34e79074a44e5ae2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "e4cb13d94ce6d692",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Regenerative Economy/Value Creation.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "publish:Publish changes...": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "obsidian-advanced-slides:Show Slide Preview": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "3e396039c9272d20"
+    }
+  },
+  "active": "Welcome"
+}

@@ -1,0 +1,340 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="300mm" height="300mm" viewBox="0 0 300 300" version="1.1" id="svg1">
+  <defs id="defs1">
+    <linearGradient id="linearGradient5">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop6"/>
+      <stop style="stop-color:#000000;stop-opacity:0;" offset="1" id="stop7"/>
+    </linearGradient>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath55">
+      <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect56" width="300" height="300" x="930" y="0" ry="2.483871"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath56">
+      <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect57" width="300" height="300" x="930" y="0" ry="2.483871"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath59">
+      <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect60" width="300" height="300" x="930" y="0" ry="2.483871"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath88">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" id="ellipse89" cx="960.80164" cy="164.41869" rx="36.294868" ry="9.5500488" d="m 997.0965,164.41869 a 36.294868,9.5500488 0 0 1 -36.29486,9.55004 36.294868,9.5500488 0 0 1 -36.29487,-9.55004 36.294868,9.5500488 0 0 1 36.29487,-9.55005 36.294868,9.5500488 0 0 1 36.29486,9.55005 z"/>
+      <path id="lpe_path-effect89" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" class="powerclip" d="m 928.43048,161.63102 h 64.74231 v 24.62507 h -64.74231 z m 68.66602,2.78767 a 36.294868,9.5500488 0 0 0 -36.29486,-9.55005 36.294868,9.5500488 0 0 0 -36.29487,9.55005 36.294868,9.5500488 0 0 0 36.29487,9.55004 36.294868,9.5500488 0 0 0 36.29486,-9.55004 z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath90">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" id="ellipse91" cx="1007.9557" cy="187.23392" rx="36.294868" ry="9.5500488" d="m 1044.2506,187.23392 a 36.294868,9.5500488 0 0 1 -36.2949,9.55005 36.294868,9.5500488 0 0 1 -36.29488,-9.55005 36.294868,9.5500488 0 0 1 36.29488,-9.55005 36.294868,9.5500488 0 0 1 36.2949,9.55005 z"/>
+      <path id="lpe_path-effect91" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" class="powerclip" d="m 975.58454,184.44625 h 64.74226 v 24.62508 h -64.74226 z m 68.66606,2.78767 a 36.294868,9.5500488 0 0 0 -36.2949,-9.55005 36.294868,9.5500488 0 0 0 -36.29488,9.55005 36.294868,9.5500488 0 0 0 36.29488,9.55005 36.294868,9.5500488 0 0 0 36.2949,-9.55005 z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath92">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" id="ellipse93" cx="1083.2413" cy="186.38129" rx="36.294868" ry="9.5500488" d="m 1119.5362,186.38129 a 36.294868,9.5500488 0 0 1 -36.2949,9.55005 36.294868,9.5500488 0 0 1 -36.2948,-9.55005 36.294868,9.5500488 0 0 1 36.2948,-9.55005 36.294868,9.5500488 0 0 1 36.2949,9.55005 z"/>
+      <path id="lpe_path-effect101" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" class="powerclip" d="m 1050.8702,183.59362 h 64.7423 v 24.62508 h -64.7423 z m 68.666,2.78767 a 36.294868,9.5500488 0 0 0 -36.2949,-9.55005 36.294868,9.5500488 0 0 0 -36.2948,9.55005 36.294868,9.5500488 0 0 0 36.2948,9.55005 36.294868,9.5500488 0 0 0 36.2949,-9.55005 z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath101">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" id="ellipse102" cx="1140.7654" cy="168.40236" rx="36.294868" ry="9.5500488" d="m 1177.0602,168.40236 a 36.294868,9.5500488 0 0 1 -36.2948,9.55005 36.294868,9.5500488 0 0 1 -36.2949,-9.55005 36.294868,9.5500488 0 0 1 36.2949,-9.55005 36.294868,9.5500488 0 0 1 36.2948,9.55005 z"/>
+      <path id="lpe_path-effect106" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" class="powerclip" d="m 1108.3942,165.61469 h 64.7423 v 24.62508 h -64.7423 z m 68.666,2.78767 a 36.294868,9.5500488 0 0 0 -36.2948,-9.55005 36.294868,9.5500488 0 0 0 -36.2949,9.55005 36.294868,9.5500488 0 0 0 36.2949,9.55005 36.294868,9.5500488 0 0 0 36.2948,-9.55005 z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath118">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="ellipse119" cx="1025.7484" cy="76.529335" rx="115.25816" ry="30.327185" clip-path="url(#clipPath55)" d="M 1141.0066,76.529335 A 115.25816,30.327185 0 0 1 1025.7484,106.85652 115.25816,30.327185 0 0 1 910.49025,76.529335 115.25816,30.327185 0 0 1 1025.7484,46.20215 115.25816,30.327185 0 0 1 1141.0066,76.529335 Z"/>
+      <path id="lpe_path-effect119" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" class="powerclip" d="m 926.1369,84.622998 h 244.6163 V 159.37737 H 926.1369 Z m 214.8697,-8.093663 A 115.25816,30.327185 0 0 0 1025.7484,46.20215 115.25816,30.327185 0 0 0 910.49025,76.529335 115.25816,30.327185 0 0 0 1025.7484,106.85652 115.25816,30.327185 0 0 0 1141.0066,76.529335 Z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipath_lpe_path-effect122">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" id="ellipse122" cx="1140.7654" cy="168.40236" rx="36.294868" ry="9.5500488" d="m 1177.0602,168.40236 a 36.294868,9.5500488 0 0 1 -36.2948,9.55005 36.294868,9.5500488 0 0 1 -36.2949,-9.55005 36.294868,9.5500488 0 0 1 36.2949,-9.55005 36.294868,9.5500488 0 0 1 36.2948,9.55005 z"/>
+      <path id="lpe_path-effect122" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1" class="powerclip" d="m 1108.3942,165.61469 h 64.7423 v 24.62508 h -64.7423 z m 68.666,2.78767 a 36.294868,9.5500488 0 0 0 -36.2948,-9.55005 36.294868,9.5500488 0 0 0 -36.2949,9.55005 36.294868,9.5500488 0 0 0 36.2949,9.55005 36.294868,9.5500488 0 0 0 36.2948,-9.55005 z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath125">
+      <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="ellipse125" mask="none" clip-path="none" cx="1048.4451" cy="174.52397" rx="115.25816" ry="30.327185" d="m 1163.7032,174.52397 a 115.25816,30.327185 0 0 1 -115.2581,30.32719 115.25816,30.327185 0 0 1 -115.2582,-30.32719 115.25816,30.327185 0 0 1 115.2582,-30.32718 115.25816,30.327185 0 0 1 115.2581,30.32718 z"/>
+      <path id="lpe_path-effect125" style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" class="powerclip" d="m 927.99047,190.94839 h 240.91273 v 71.05347 H 927.99047 Z m 235.71273,-16.42442 a 115.25816,30.327185 0 0 0 -115.2581,-30.32718 115.25816,30.327185 0 0 0 -115.2582,30.32718 115.25816,30.327185 0 0 0 115.2582,30.32719 115.25816,30.327185 0 0 0 115.2581,-30.32719 z"/>
+    </clipPath>
+    <mask maskUnits="userSpaceOnUse" id="mask8">
+      <g id="g12">
+        <g id="g11">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect10" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient12);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect11" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient12" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask12">
+      <g id="g14">
+        <g id="g13">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect12" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient14);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect13" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient14" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask14">
+      <g id="g16">
+        <g id="g15">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect14" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient16);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect15" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient16" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask16">
+      <g id="g18">
+        <g id="g17">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect16" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient18);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect17" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient18" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask18">
+      <g id="g20">
+        <g id="g19">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect18" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient20);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect19" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient20" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask20">
+      <g id="g22">
+        <g id="g21">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect20" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient22);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect21" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient22" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask22">
+      <g id="g24">
+        <g id="g23">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect22" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient24);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect23" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient24" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask24">
+      <g id="g26">
+        <g id="g25">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect24" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient26);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect25" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient26" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask26">
+      <g id="g28">
+        <g id="g27">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect26" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient28);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect27" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient28" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask28">
+      <g id="g30">
+        <g id="g29">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect28" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient30);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect29" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient30" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask30">
+      <g id="g32">
+        <g id="g31">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect30" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient32);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect31" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient32" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask32">
+      <g id="g34">
+        <g id="g33">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect32" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient34);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect33" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient34" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask34">
+      <g id="g36">
+        <g id="g35">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect34" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient36);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect35" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient36" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask36">
+      <g id="g38">
+        <g id="g37">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect36" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient38);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect37" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient38" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask38">
+      <g id="g40">
+        <g id="g39">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect38" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient40);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect39" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient40" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <mask maskUnits="userSpaceOnUse" id="mask40">
+      <g id="g42">
+        <g id="g41">
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect40" width="245.85513" height="125.204" x="874.79645" y="232.76562" ry="2.4838707"/>
+          <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:url(#linearGradient42);fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect41" width="108.13073" height="99.024986" x="-1110.4076" y="-343.17279" ry="2.4838707" transform="scale(-1)"/>
+        </g>
+      </g>
+    </mask>
+    <linearGradient xlink:href="#linearGradient5" id="linearGradient42" gradientUnits="userSpaceOnUse" gradientTransform="translate(-2202.6036,-488.29561)" x1="1091.9958" y1="194.63547" x2="1200.5269" y2="194.63547"/>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath42">
+      <g id="g43">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect42" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath43">
+      <g id="g44">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect43" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath44">
+      <g id="g45">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect44" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath45">
+      <g id="g46">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect45" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath46">
+      <g id="g47">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect46" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath47">
+      <g id="g48">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect47" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath48">
+      <g id="g49">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect48" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath49">
+      <g id="g50">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect49" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath50">
+      <g id="g51">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect50" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath54">
+      <g id="g55">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect55" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath58">
+      <g id="g59">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect59" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath60">
+      <g id="g61">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect61" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath62">
+      <g id="g63">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect63" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath63">
+      <g id="g64">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect64" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath64">
+      <g id="g65">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect65" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath65">
+      <g id="g66">
+        <rect style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none" id="rect66" width="300" height="300" x="930" y="0" ry="2.483871"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="layer1" transform="translate(-930.00001)">
+    <rect style="fill:#003a53;fill-opacity:1;stroke:none;stroke-width:0.665001" id="rect3" width="300" height="300" x="930" y="0"/>
+    <ellipse style="display:none;fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="ellipse124" cx="1025.7484" cy="76.529335" rx="115.25816" ry="30.327185" clip-path="url(#clipPath55)" transform="translate(0,48.290509)"/>
+    <path style="opacity:0.748626;fill:none;stroke:#de9ff3;stroke-width:4.1;stroke-dasharray:none;stroke-opacity:1" id="path1-9-6" mask="none" clip-path="url(#clipPath118)" d="m 1163.7032,122.00018 a 115.25816,30.327185 0 0 1 -115.2581,30.32719 115.25816,30.327185 0 0 1 -115.2582,-30.32719 115.25816,30.327185 0 0 1 115.2582,-30.327182 115.25816,30.327185 0 0 1 115.2581,30.327182 z" transform="matrix(0.86327934,0,0,0.86327934,143.3441,16.679945)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-7" cx="933.05402" cy="266.38266" rx="16.547224" ry="4.353971" mask="url(#mask40)" clip-path="url(#clipPath65)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-6" cx="1081.5869" cy="279.7467" rx="16.547224" ry="4.353971" mask="url(#mask38)" clip-path="url(#clipPath64)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-2" cx="1085.5908" cy="294.67834" rx="16.547224" ry="4.353971" mask="url(#mask36)" clip-path="url(#clipPath63)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-8" cx="1052.9569" cy="286.70059" rx="16.547224" ry="4.353971" mask="url(#mask34)" clip-path="url(#clipPath62)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-4" cx="957.92535" cy="295.48682" rx="16.547224" ry="4.353971" mask="url(#mask32)" clip-path="url(#clipPath60)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-9" cx="942.84381" cy="278.81805" rx="16.547224" ry="4.353971" mask="url(#mask30)" clip-path="url(#clipPath58)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-0" cx="958.18964" cy="286.75555" rx="16.547224" ry="4.353971" mask="url(#mask28)" clip-path="url(#clipPath54)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-93" cx="974.06476" cy="281.19931" rx="16.547224" ry="4.353971" mask="url(#mask26)" clip-path="url(#clipPath50)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-3" cx="964.80377" cy="271.40973" rx="16.547224" ry="4.353971" mask="url(#mask24)" clip-path="url(#clipPath49)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-94" cx="990.73273" cy="266.9118" rx="16.547224" ry="4.353971" mask="url(#mask22)" clip-path="url(#clipPath48)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-46" cx="1004.2266" cy="285.16806" rx="16.547224" ry="4.353971" mask="url(#mask20)" clip-path="url(#clipPath47)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-87" cx="1023.5414" cy="282.25766" rx="16.547224" ry="4.353971" mask="url(#mask18)" clip-path="url(#clipPath46)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-62" cx="1051.0585" cy="270.88055" rx="16.547224" ry="4.353971" mask="url(#mask16)" clip-path="url(#clipPath45)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-07" cx="1016.6622" cy="268.49933" rx="16.547224" ry="4.353971" mask="url(#mask14)" clip-path="url(#clipPath44)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-1" cx="1002.9042" cy="296.01599" rx="16.547224" ry="4.353971" mask="url(#mask12)" clip-path="url(#clipPath43)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6-5" cx="1051.0587" cy="297.60349" rx="16.547224" ry="4.353971" mask="url(#mask8)" clip-path="url(#clipPath42)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.225;stroke-dasharray:0.225, 0.9;stroke-dashoffset:0;stroke-opacity:1" id="ellipse1-1" cx="1007.3093" cy="171.43248" rx="20.415863" ry="5.3719025"/>
+    <text xml:space="preserve" style="font-size:12.7px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583" x="1105.7292" y="24.118328" id="text105"><tspan id="tspan105" style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583" x="1105.7292" y="24.118328">whole system onboarding</tspan></text>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path1" cx="949.92755" cy="51.854401" rx="115.25816" ry="30.327185" clip-path="url(#clipPath56)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path1-9" cx="1025.7484" cy="76.529335" rx="115.25816" ry="30.327185" clip-path="url(#clipPath55)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.225;stroke-dasharray:0.225, 0.9;stroke-dashoffset:0;stroke-opacity:1" id="path1-9-6-8" cx="958.4389" cy="158.34131" rx="20.415863" ry="5.3719025"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.4;stroke-dasharray:none;stroke-opacity:1" id="path1-5" cx="1120.5094" cy="58.308434" rx="115.25816" ry="30.327185" clip-path="url(#clipPath59)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.225;stroke-dasharray:0.225, 0.9;stroke-dashoffset:0;stroke-opacity:1" id="ellipse1" cx="1054.8652" cy="174.04474" rx="20.415863" ry="5.3719025"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse2" clip-path="url(#clipPath90)" d="m 1035.1768,196.75879 a 27.221151,7.1625366 0 0 1 -27.2211,7.16254 27.221151,7.1625366 0 0 1 -27.22116,-7.16254 27.221151,7.1625366 0 0 1 27.22116,-7.16254 27.221151,7.1625366 0 0 1 27.2211,7.16254 z" transform="matrix(0.5625,0,0,0.5625,440.33424,70.280559)"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3" clip-path="url(#clipPath88)" d="m 988.02279,173.94356 a 27.221151,7.1625366 0 0 1 -27.22115,7.16253 27.221151,7.1625366 0 0 1 -27.22116,-7.16253 27.221151,7.1625366 0 0 1 27.22116,-7.16254 27.221151,7.1625366 0 0 1 27.22115,7.16254 z" transform="matrix(0.5625,0,0,0.5625,417.98798,70.023001)"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4" cx="1077.927" cy="230.18245" rx="16.547224" ry="4.353971"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-2" cx="1063.8199" cy="235.29143" rx="16.547224" ry="4.353971"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-7" cx="1040.9944" cy="233.33998" rx="16.547224" ry="4.353971"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-6" cx="1063.8199" cy="225.07347" rx="16.547224" ry="4.353971"/>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1170.7914" y="280.03528" id="text21-3"><tspan id="tspan21-4" style="fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1170.7914" y="280.03528">participants</tspan></text>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1190.7524" y="234.5116" id="text21-4"><tspan id="tspan21-1" style="fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1190.7524" y="234.5116">season</tspan></text>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1187.3232" y="254.74507" id="text21-2"><tspan id="tspan21-5" style="fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1187.3232" y="254.74507">voyages</tspan></text>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1191.3875" y="161.1644" id="text21-32"><tspan id="tspan21-8" style="fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1191.3875" y="161.1644">places</tspan></text>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.05;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:46.5636;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1173.2151" y="108.05618" id="text21-81" transform="translate(44.427597,-10.134689)"><tspan x="1173.2151" y="108.05618" id="tspan7">Communities<tspan y="108.05618" id="tspan8"> </tspan></tspan><tspan x="1173.2151" y="119.16917" id="tspan9">of practice</tspan></text>
+    <text xml:space="preserve" style="font-size:10.5838px;line-height:1.05;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;white-space:pre;inline-size:47.9946;display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.220497" x="1183.7354" y="203.36623" id="text21-40" transform="translate(31.26554,-6.5455183)"><tspan x="1183.7354" y="203.36623" id="tspan10">communities<tspan y="203.36623" id="tspan11"> </tspan></tspan><tspan x="1183.7354" y="214.47922" id="tspan12">of place</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="989.35577" y="163.44054" id="text22-0-0-0-82"><tspan id="tspan22-6-2-4-77" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="989.35577" y="163.44054">north ghana</tspan></text>
+    <path style="fill:none;stroke:#ffffff;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse4" clip-path="url(#clipPath92)" d="m 1110.4625,195.90616 a 27.221151,7.1625366 0 0 1 -27.2212,7.16254 27.221151,7.1625366 0 0 1 -27.2211,-7.16254 27.221151,7.1625366 0 0 1 27.2211,-7.16254 27.221151,7.1625366 0 0 1 27.2212,7.16254 z" transform="matrix(0.5625,0,0,0.5625,445.542,73.372456)"/>
+    <path style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.4, 1.6;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000" id="ellipse5" clip-path="url(#clipPath125)" d="m 1163.7032,226.47467 a 115.25816,30.327185 0 0 1 -115.2581,30.32719 115.25816,30.327185 0 0 1 -115.2582,-30.32719 115.25816,30.327185 0 0 1 115.2582,-30.32718 115.25816,30.327185 0 0 1 115.2581,30.32718 z"/>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.182364;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse3-4-3" cx="1040.9944" cy="227.02492" rx="16.547224" ry="4.353971"/>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="941.0611" y="150.46951" id="text72"><tspan id="tspan72" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="941.0611" y="150.46951">la garrotxa</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1037.0176" y="165.81691" id="text22-0-0-0-5"><tspan id="tspan22-6-2-4-74" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1037.0176" y="165.81691">north wales</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1041.5385" y="217.58452" id="text22-0-0-0-5-1"><tspan id="tspan22-6-2-4-74-6" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1041.5385" y="217.58452">exodus</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="986.72522" y="222.33594" id="text22-0-0-0-5-9"><tspan id="tspan22-6-2-4-74-5" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="986.72522" y="222.33594">earth-raising</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="983.89246" y="244.13629" id="text22-0-0-0-5-2"><tspan id="tspan22-6-2-4-74-4" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="983.89246" y="244.13629">regovern place</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1054.5361" y="248.8989" id="text22-0-0-0-5-0"><tspan id="tspan22-6-2-4-74-9" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1054.5361" y="248.8989">villaging os</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1089.2728" y="224.90163" id="text22-0-0-0-5-03"><tspan id="tspan22-6-2-4-74-59" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1089.2728" y="224.90163">strange fish academy</tspan></text>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.225;stroke-dasharray:0.225, 0.9;stroke-dashoffset:0;stroke-opacity:1" id="ellipse72" cx="1102.8501" cy="167.72412" rx="20.415863" ry="5.3719025"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="ellipse73" clip-path="url(#clipPath101)" d="m 1167.9865,177.92723 a 27.221151,7.1625366 0 0 1 -27.2211,7.16254 27.221151,7.1625366 0 0 1 -27.2212,-7.16254 27.221151,7.1625366 0 0 1 27.2212,-7.16254 27.221151,7.1625366 0 0 1 27.2211,7.16254 z" transform="matrix(0.5625,0,0,0.5625,461.16956,77.165068)"/>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1096.1064" y="159.58774" id="text73"><tspan id="tspan73" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1096.1064" y="159.58774">italy</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1039.4347" y="198.25354" id="text74"><tspan id="tspan74" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1039.4347" y="198.25354">astralship</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="987.37457" y="195.31781" id="text75"><tspan id="tspan75" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="987.37457" y="195.31781">dream village</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="934.96082" y="182.74825" id="text76"><tspan id="tspan76" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="934.96082" y="182.74825">resilience.earth</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1081.531" y="192.92479" id="text77"><tspan id="tspan77" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1081.531" y="192.92479">liminal village</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1008.0393" y="89.039894" id="text77-1"><tspan id="tspan77-9" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1008.0393" y="89.039894">regenesis</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="973.93494" y="42.93248" id="text77-3"><tspan id="tspan77-8" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="973.93494" y="42.93248">seven vortex</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1133.0695" y="60.048874" id="text77-15"><tspan id="tspan77-5" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1133.0695" y="60.048874">biomimicry</tspan></text>
+    <ellipse style="fill:none;stroke:#ffffff;stroke-width:0.225;stroke-dasharray:0.225, 0.9;stroke-dashoffset:0;stroke-opacity:1" id="ellipse120" cx="1146.2729" cy="157.98022" rx="20.415863" ry="5.3719025"/>
+    <path style="fill:none;stroke:#ffffff;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="path120" clip-path="url(#clipath_lpe_path-effect122)" d="m 1167.9865,177.92723 a 27.221151,7.1625366 0 0 1 -27.2211,7.16254 27.221151,7.1625366 0 0 1 -27.2212,-7.16254 27.221151,7.1625366 0 0 1 27.2212,-7.16254 27.221151,7.1625366 0 0 1 27.2211,7.16254 z" transform="matrix(0.5625,0,0,0.5625,504.59245,67.421169)"/>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1129.0221" y="149.84384" id="text120"><tspan id="tspan120" style="font-size:8.46667px;fill:#6790c9;fill-opacity:1;stroke-width:0.457627" x="1129.0221" y="149.84384">philidelphia</tspan></text>
+    <text xml:space="preserve" style="font-size:8.46667px;line-height:1.25;font-family:'Bebas Neue';-inkscape-font-specification:'Bebas Neue';letter-spacing:0px;word-spacing:0px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1130.4572" y="183.18089" id="text121"><tspan id="tspan121" style="font-size:8.46667px;fill:#9fc2f3;fill-opacity:1;stroke-width:0.457627" x="1130.4572" y="183.18089">Ramboland</tspan></text>
+    <path style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" d="m 1147.9109,90.343493 c 0,3.219366 0,6.438734 0,8.551455 0,2.112722 0,3.118752 0.6708,3.621782 0.6707,0.50302 2.012,0.50302 6.4052,0.50302 4.3931,0 11.8378,0 19.2826,0" id="path125" transform="translate(-6.3500003)"/>
+    <path style="fill:none;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" d="m 1147.9109,117.2339 c 0,-3.3491 0,-6.69813 0,-9.0672 0,-2.36908 0,-3.758 0.6708,-4.45247 0.6707,-0.69448 2.012,-0.69448 4.741,-0.69448 2.7289,0 6.8452,0 10.9617,0" id="path125-5" transform="rotate(90,1131.429,151.42665)"/>
+    <path style="fill:none;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" d="m 1063.6037,99.274093 c 0,1.248557 0,2.497007 0.6707,3.121327 0.6708,0.62433 2.0121,0.62433 18.3774,0.62433 16.3652,0 47.7536,0 79.1427,0" id="path125-5-7" transform="translate(9.0724604,151.48564)"/>
+    <path style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" d="m 1150.7278,123.74443 c 10.7985,0 21.5967,0 32.395,0" id="path126" transform="translate(0,6.3500003)"/>
+    <path style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" d="m 1169.4404,123.74443 c 4.5608,0 9.1216,0 13.6824,0" id="path126-7" transform="translate(2.6453964,33.715742)"/>
+    <path style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#6790c9;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000" d="m 1165.0138,123.74443 c 6.0363,0 12.0727,0 18.109,0" id="path126-7-1" transform="translate(0.53668963,107.1493)"/>
+  </g>
+</svg>

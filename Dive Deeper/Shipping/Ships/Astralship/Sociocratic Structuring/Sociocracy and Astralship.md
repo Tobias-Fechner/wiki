@@ -1,0 +1,10 @@
+# Why We Use Sociocracy at the Astralship
+At the Astralship, our commitment to fostering regenerative practices and launching impactful projects is deeply ingrained in the very fabric of our organization. We have chosen to employ the Sociocratic Framework as a guiding principle in our internal governance and decision-making processes. While the Voyaging Methodology serves as the catalyst for intensive group experiences, incubating and launching projects toward a regenerative civilization, sociocracy plays a pivotal role in steering the ship—ensuring the alignment of our internal structures and processes with the dynamic and interconnected spheres of society.
+# Sociocracy as a Suggestion for Voyaging
+In our intensive group experiences, encapsulated by the Voyaging Methodology, we present the Sociocratic Framework as a suggestion for governing decision-making during the course of the Voyage. This approach acknowledges the diverse backgrounds, experiences, and perspectives that participants bring to the table. The Sociocratic Framework, with its emphasis on consent-based decision-making and inclusive governance structures, aligns seamlessly with the collaborative spirit of the Voyaging Methodology, providing a flexible and adaptive foundation for participants to navigate the challenges and opportunities presented during their transformative journey.
+# Internal Governance of the Astralship Project and Phoenix Incubator
+Internally, at the core of the Astralship project and the Phoenix incubator, we have embraced sociocracy as an operational model for navigating the complex landscape of economic, social, political, cultural, and ecological dimensions. The decentralized nature of sociocracy aligns harmoniously with our philosophy of distributed leadership and shared responsibility. By implementing sociocracy, we empower team members to contribute actively to decision-making processes, fostering a sense of ownership and commitment to the mission of the Astralship.
+# Further Reading
+1. [[Astralship Governance and Broader Context]]
+2. [[Astral Voyaging Sociocratically]]
+3. [[Basics of Applying Sociocracy]]

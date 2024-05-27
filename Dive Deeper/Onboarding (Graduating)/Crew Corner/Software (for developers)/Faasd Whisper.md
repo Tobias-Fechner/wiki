@@ -1,0 +1,3 @@
+Using the faas-cli to create a new function using a given template, it's important to note that there are less issues using a python3-http-debian template, as opposed to a python3-http template, as the latter is based on an Alpine Linux base image which causes issue when installing whisper dependencies. Most notably, [PyTorch](https://pytorch.org/). As is described in the OpenFaas [docs](https://docs.openfaas.com/languages/python/), the python3-http template is for pure Python only, and the python3-http-debian template is required for native C modules, such as Pandas. 
+
+For more details on setting up using the openai-whisper package, see [here](https://github.com/openai/whisper?tab=readme-ov-file#setup). 

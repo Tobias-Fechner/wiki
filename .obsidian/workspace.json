@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "3f83c4aecd01c2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "35f03fdfe8cfecba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1296d9c9097637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary of Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "409dbc5342beed5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "defdf7135dbd993d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a08a648852c249d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f62028de0103508",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9ab360f19748ca0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "36e702182f7a938c",
+    "type": "split",
+    "children": [
+      {
+        "id": "76ecda902515606b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2abf00ca9f820e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glossary of Terms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e52a8bbb57cb5ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Glossary of Terms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34e79074a44e5ae2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4cb13d94ce6d692",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Glossary of Terms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ee1296d9c9097637",
+  "lastOpenFiles": [
+    "Dive Deeper/Voyaging/Voyaging Methdology.md",
+    "Voyager Welcome Pack.md",
+    "Welcome to Astralship.md",
+    "Digital Participation Plan for Voyage.md",
+    "Voyages/Re-place Academy.md",
+    "Assets/brochure_wo_schumacer.pdf",
+    "Dive Deeper/Voyaging/Levels of Engagement/Crew Core.md",
+    "Glossary of Terms.md",
+    "Dive Deeper/Voyaging/Levels of Engagement/Crew.md",
+    "Dive Deeper/Voyaging/Levels of Engagement/Participant.md",
+    "Dive Deeper/Voyaging/Levels of Engagement",
+    "Dive Deeper/Regenerative Economy/Voyaging Value Creation.md",
+    "Assets/Pasted image 20240509212507.png",
+    "Assets/space_tones_Page 4_copy_1.png",
+    "Assets/space_tones_Page 3.png",
+    "Assets/space_tones_Page 2.png",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Bots/Energising.md",
+    "Dive Deeper/Regenerative Economy/Energy Accounting.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Wikimedia Commons.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Tooling Overview.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Scheduling.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Obsidian.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Frameworks, Tooling, Facilitation.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Forms.md",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Cognito forms.md",
+    "Current Crew.md",
+    "Crew/Tabs.md",
+    "The Regeneration Movement.md",
+    "Voyages/Re-place Academy/Metabolic Earth/Apollo Client.md",
+    "Voyages/Re-place Academy/Metabolic Earth/On-boarding to Metabolic.Earth.md",
+    "Voyages/Re-place Academy/Metabolic Earth/ArcGis.md",
+    "Voyages/Villaging OS.md",
+    "Voyages/Re-place Academy",
+    "Voyages/Re-place Academy/Metabolic Earth",
+    "Voyages/Re-place Academy/Cardano Catalyst Proposal",
+    "Dive Deeper/Voyaging/Replace Academy",
+    "Assets/galaxy-show-house.png",
+    "Assets/photo_2024-05-11_09-39-59 (4).jpg",
+    "Assets/Gemini_Generated_Image (5).jpg",
+    "Assets/photo_2024-04-10_17-14-24.jpg",
+    "Assets/photo_2024-04-10_17-14-25 (2) 1.jpg",
+    "Assets/Pasted Image 20240408010158_921.png",
+    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Bots",
+    "Alumni",
+    "Assets/New folder",
+    "Voyages",
+    "Site Map.canvas"
+  ]
+}
