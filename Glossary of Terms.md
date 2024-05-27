@@ -1,5 +1,5 @@
 ## Voyaging Terms
-aaaa
+
 - **Ship:** An organisational entity comprised of two or more individuals with a shared mission, vision, and values. 
 - **Astralship:** A physical and virtual vessel, representing the community and infrastructure supporting collaborative innovation voyages.
 - **Captain:** The leader and primary guide of the voyage, responsible for the overall direction and vision.
