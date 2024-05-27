@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35f03fdfe8cfecba",
+        "id": "280cfa4fec391d55",
         "type": "tabs",
         "children": [
           {
-            "id": "ee1296d9c9097637",
+            "id": "cf04ac0a5ce37a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee1296d9c9097637",
+  "active": "cf04ac0a5ce37a7c",
   "lastOpenFiles": [
+    "Join Us.md",
+    "Glossary of Terms.md",
     "Dive Deeper/Voyaging/Voyaging Methdology.md",
     "Voyager Welcome Pack.md",
     "Welcome to Astralship.md",
@@ -159,7 +160,6 @@
     "Voyages/Re-place Academy.md",
     "Assets/brochure_wo_schumacer.pdf",
     "Dive Deeper/Voyaging/Levels of Engagement/Crew Core.md",
-    "Glossary of Terms.md",
     "Dive Deeper/Voyaging/Levels of Engagement/Crew.md",
     "Dive Deeper/Voyaging/Levels of Engagement/Participant.md",
     "Dive Deeper/Voyaging/Levels of Engagement",
@@ -183,7 +183,6 @@
     "Voyages/Re-place Academy/Metabolic Earth/Apollo Client.md",
     "Voyages/Re-place Academy/Metabolic Earth/On-boarding to Metabolic.Earth.md",
     "Voyages/Re-place Academy/Metabolic Earth/ArcGis.md",
-    "Voyages/Villaging OS.md",
     "Voyages/Re-place Academy",
     "Voyages/Re-place Academy/Metabolic Earth",
     "Voyages/Re-place Academy/Cardano Catalyst Proposal",
