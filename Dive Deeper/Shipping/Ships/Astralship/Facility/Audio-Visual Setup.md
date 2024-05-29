@@ -1,2 +1,2 @@
 1. [[Audio Setup]]
-2. [[Visual Setup]]
+2. [[LED Par Lights Guide]]

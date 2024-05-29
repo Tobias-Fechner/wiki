@@ -1,16 +1,15 @@
-1. Components
-a. 4 LED Par Lights
-b. DMX Controller + Lighting Cord
-c. 4 3-Pin DMX Cables
-2. How Power is Distributed
-a. The DMX Console has its own power cable
-b. Every LED Par light has an integrated power cable
-c. Everything needs to be plugged in before starting
-d. !!! It is important to plug in everything before turning the console on !!!
-This step prevents electrical surges and protects the equipment over time.
-3. How Signal is Distributed
-a. The first DMX Cable comes out of the console on the back (F) and connects to
-the first light on the DMX IN port (M).
+# Components
+1. 4 LED Par Lights
+2. DMX Controller + Lighting Cord
+3. 4x 3-Pin DMX Cables
+# How Power is Distributed
+1. The DMX Console has its own power cable
+2. Every LED Par light has an integrated power cable
+3. Everything needs to be plugged in before starting
+4. !!! It is important to plug in everything before turning the console on !!!
+	   This step prevents electrical surges and protects the equipment over time.
+# How Signal is Distributed
+1. The first DMX Cable comes out of the console on the back (F) and connects to the first light on the DMX IN port (M).
 b. To connect more lights, plug a cable from the DMX OUT port on the first light to
 the DMX IN port on the second light.
 c. For convenience, all lights are set to DMX channel #001
