@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Visual Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Visual Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary of Terms.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Visual Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary of Terms.md"
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Visual Setup.md"
               }
             }
           }
@@ -151,8 +151,12 @@
   },
   "active": "cf04ac0a5ce37a7c",
   "lastOpenFiles": [
-    "Join Us.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Facility/Audio-Visual Setup.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Facility/Visual Setup.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Facility/Audio Setup.md",
     "Glossary of Terms.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Facility",
+    "Join Us.md",
     "Dive Deeper/Voyaging/Voyaging Methdology.md",
     "Voyager Welcome Pack.md",
     "Welcome to Astralship.md",
@@ -180,9 +184,6 @@
     "Current Crew.md",
     "Crew/Tabs.md",
     "The Regeneration Movement.md",
-    "Voyages/Re-place Academy/Metabolic Earth/Apollo Client.md",
-    "Voyages/Re-place Academy/Metabolic Earth/On-boarding to Metabolic.Earth.md",
-    "Voyages/Re-place Academy/Metabolic Earth/ArcGis.md",
     "Voyages/Re-place Academy",
     "Voyages/Re-place Academy/Metabolic Earth",
     "Voyages/Re-place Academy/Cardano Catalyst Proposal",
@@ -196,7 +197,6 @@
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Bots",
     "Alumni",
     "Assets/New folder",
-    "Voyages",
     "Site Map.canvas"
   ]
 }
