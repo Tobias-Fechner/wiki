@@ -10,9 +10,8 @@
 	   This step prevents electrical surges and protects the equipment over time.
 # How Signal is Distributed
 1. The first DMX Cable comes out of the console on the back (F) and connects to the first light on the DMX IN port (M).
-b. To connect more lights, plug a cable from the DMX OUT port on the first light to
-the DMX IN port on the second light.
-c. For convenience, all lights are set to DMX channel #001
+2. To connect more lights, plug a cable from the DMX OUT port on the first light to the DMX IN port on the second light.
+3. For convenience, all lights are set to DMX channel #001
 To set the channel: click the light’s menu button until you see “d ###”, use
 up and down button to select “d 001” and then press enter.
 4. Operating The Console
