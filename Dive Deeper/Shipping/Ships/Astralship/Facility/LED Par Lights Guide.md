@@ -25,7 +25,9 @@
 	   #5: Light sequence
 	   #7: Strobing
 4. To manually control light settings press the auto button on the side.
-e. To program scenes, refer to this Youtube Video:
-i. https://youtu.be/zyV1CjHoJ2U?si=_ofk2jpZ8Nkkhbz4&t=285 (4:45)
-5. Final Step:
-a. Geparty
+	   ![[Pasted image 20240529163552.png]]
+1. To program scenes, refer to this Youtube Video:
+	1. i. https://youtu.be/zyV1CjHoJ2U?si=_ofk2jpZ8Nkkhbz4&t=285 (4:45)
+# Final Step
+1. Geparty
+
