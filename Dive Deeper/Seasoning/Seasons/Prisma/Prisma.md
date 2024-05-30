@@ -10,7 +10,7 @@ This season is comprised of five voyages, plus a sixth of integration. The pages
 # February and the lead up to Earth Day
 The first voyage theme is meaning-making: knowledge commoning and p2p learning. The core cohort will be made up of people with wiki/ knowledge projects, outlined in [[Re-place Academy]]. This voyage is to validate the voyaging method can facilitate collaboration across resonant lines of work toward a common aim beyond the scope of each participant's own work. This also tests if people would be interested in this model, and we'll be learning how to account for these contributions fairly (see [[Energy Accounting]]). 
 
-This first voyage, beginning by April 22, could be the first interim step to validate the approach of our collective as a means of delivering the rest of the platform: 
+This first voyage, beginning Jun 7, could be the first interim step to validate the approach of our collective as a means of delivering the rest of the platform: 
 1. Does the cohort voyaging process succeed? (Hugo, wiki folks; Delfi, learning experience design)
 2. Is there will to continue the collaboration after? (Process [[Value Creation]])
 3. Is there will to continue as a DAO? What's the suitable configuration for Hypha DAO factory capability being nested within the overall project (contribution accounting)? (Franz, Hypha)
