@@ -16,18 +16,20 @@
 - [ ] Nice to have: Flashlight or headlamp
 - [ ] Optional: Insect repellent
 
-**Optional Additional Tech:**
-- [ ] Smart Speakers
-- [ ] Portable Projectors
-- [ ] Power Banks
-- [ ] Bluetooth Speakers
-- [ ] Portable Wi-Fi Hotspots
+**Tech:**
 - [ ] Laptops or Tablets
+- [ ] Nice to have: Additional monitor
+- [ ] Optional: Smart Speakers
+- [ ] Optional: Portable Projectors
+- [ ] Optional: Power Banks
+- [ ] Optional: Bluetooth Speakers
+- [ ] Optional: Portable Wi-Fi Hotspots
+- [ ] Optional: Raspberry Pi, Arduino etc.
 
-**Replace Academy Voyage Specifics:**
+**Voyage Specifics:**
 - [ ] Writing materials (notebooks, pens)
 - [ ] Workshop-specific tools or equipment
-- [ ] Additional items specific to Replace Academy voyage
+- [ ] Additional items specific to your voyage
 
 **Optional Items:**
 - [ ] Yoga mat
