@@ -9,14 +9,12 @@
 
 [ ] **General Essentials:**
 - [ ] Toiletries
-- [ ] Insect repellent
-- [ ] Any necessary medications
-- [ ] Flashlight or headlamp
 - [ ] Waterproof jacket or poncho
 - [ ] Hiking boots or sturdy shoes
 - [ ] Backpack or daypack
-- [ ] Water bottle
-- [ ] Snacks
+- [ ] Nice to have: Water bottle
+- [ ] Nice to have: Flashlight or headlamp
+- [ ] Optional: Insect repellent
 
 [ ] **Optional Additional Tech:**
 - [ ] Smart Speakers
