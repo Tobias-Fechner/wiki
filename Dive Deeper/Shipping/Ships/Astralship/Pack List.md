@@ -19,6 +19,7 @@
 **Tech:**
 - [ ] Laptops or Tablets
 - [ ] Nice to have: Additional monitor
+- [ ] Optional: Audio mics
 - [ ] Optional: Smart Speakers
 - [ ] Optional: Portable Projectors
 - [ ] Optional: Power Banks
@@ -31,9 +32,9 @@
 - [ ] Workshop-specific tools or equipment
 - [ ] Additional items specific to your voyage
 
-**Optional Items:**
+**Optional Misc. Items:**
 - [ ] Yoga mat
-- [ ] Camera or smartphone for capturing memories
+- [ ] Camera
 - [ ] Binoculars for birdwatching or sightseeing
 - [ ] Musical instruments for jam sessions or entertainment
 - [ ] Outdoor games (frisbee, volleyball, etc.)
