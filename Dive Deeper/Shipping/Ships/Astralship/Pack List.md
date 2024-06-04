@@ -12,8 +12,11 @@
 - [ ] Waterproof jacket or poncho
 - [ ] Hiking boots or sturdy shoes
 - [ ] Backpack or daypack
+- [ ] Sleeping bag if sleeping out is planned
 - [ ] Nice to have: Water bottle
+- [ ] Nice to have: Sleeping bag if sleeping out is planned
 - [ ] Nice to have: Flashlight or headlamp
+- [ ] Optional: Tent
 - [ ] Optional: Insect repellent
 
 **Tech:**
