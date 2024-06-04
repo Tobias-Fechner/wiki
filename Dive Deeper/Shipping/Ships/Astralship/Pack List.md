@@ -35,8 +35,8 @@
 **Optional Misc. Items:**
 - [ ] Yoga mat
 - [ ] Camera
-- [ ] Binoculars for birdwatching or sightseeing
-- [ ] Musical instruments for jam sessions or entertainment
+- [ ] Musical instruments
 - [ ] Outdoor games (frisbee, volleyball, etc.)
-- [ ] Sketchbook or art supplies for creative expression
+- [ ] Sketchbook or art supplies/ any creative materials
+- [ ] Ship pimping equipment: hammock, lights etc.
 
