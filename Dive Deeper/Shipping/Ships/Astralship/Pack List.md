@@ -7,6 +7,17 @@
 - [ ] Any necessary medical supplies
 - [ ] Any required documentation for international travel
 
+[ ] **General Essentials:**
+- [ ] Toiletries
+- [ ] Insect repellent
+- [ ] Any necessary medications
+- [ ] Flashlight or headlamp
+- [ ] Waterproof jacket or poncho
+- [ ] Hiking boots or sturdy shoes
+- [ ] Backpack or daypack
+- [ ] Water bottle
+- [ ] Snacks
+
 [ ] **Optional Additional Tech:**
 - [ ] Smart Speakers
 - [ ] Portable Projectors
@@ -22,23 +33,11 @@
 - [ ] Any required reading materials or texts
 - [ ] Additional items specific to Replace Academy program (to be specified)
 
-[ ] **General Essentials:**
-    - [ ] Towels
-    - [ ] Toiletries
-    - [ ] Insect repellent
-    - [ ] Any necessary medications
-    - [ ] Flashlight or headlamp
-    - [ ] Waterproof jacket or poncho
-    - [ ] Hiking boots or sturdy shoes
-    - [ ] Backpack or daypack
-    - [ ] Water bottle
-    - [ ] Snacks
-
 [ ] **Optional Items:**
-    - [ ] Yoga mat
-    - [ ] Camera or smartphone for capturing memories
-    - [ ] Binoculars for birdwatching or sightseeing
-    - [ ] Musical instruments for jam sessions or entertainment
-    - [ ] Outdoor games (frisbee, volleyball, etc.)
-    - [ ] Sketchbook or art supplies for creative expression
+- [ ] Yoga mat
+- [ ] Camera or smartphone for capturing memories
+- [ ] Binoculars for birdwatching or sightseeing
+- [ ] Musical instruments for jam sessions or entertainment
+- [ ] Outdoor games (frisbee, volleyball, etc.)
+- [ ] Sketchbook or art supplies for creative expression
 
