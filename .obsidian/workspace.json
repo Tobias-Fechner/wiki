@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dive Deeper/Seasoning/Seasons/Prisma/Prisma.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dive Deeper/Seasoning/Seasons/Prisma/Prisma.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dive Deeper/Seasoning/Seasons/Prisma/Prisma.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dive Deeper/Seasoning/Seasons/Prisma/Prisma.md"
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Pack List.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   },
   "active": "cf04ac0a5ce37a7c",
   "lastOpenFiles": [
+    "Dive Deeper/Seasoning/Seasons/Prisma/Prisma.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
     "Voyages/Prisma.md",
     "Dive Deeper/Shipping/Ships/Astralship/Facility/LED Par Lights Guide.md",
     "Assets/Drawing 2024-05-29 16.39.12.excalidraw.md",
@@ -187,8 +189,6 @@
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Obsidian.md",
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Frameworks, Tooling, Facilitation.md",
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Forms.md",
-    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Cognito forms.md",
-    "Current Crew.md",
     "Voyages/Re-place Academy",
     "Voyages/Re-place Academy/Metabolic Earth",
     "Voyages/Re-place Academy/Cardano Catalyst Proposal",
