@@ -1,4 +1,4 @@
-[ ] **Clothing and Personal Items:**
+**Clothing and Personal Items:**
 - [ ] Clothing for a variety of weather conditions (warm, sunny, rainy, and overcast)
 - [ ] Sunscreen
 - [ ] Personal specialty cooking appliances, if needed
@@ -7,7 +7,7 @@
 - [ ] Any necessary medical supplies
 - [ ] Any required documentation for international travel
 
-[ ] **General Essentials:**
+**General Essentials:**
 - [ ] Toiletries
 - [ ] Waterproof jacket or poncho
 - [ ] Hiking boots or sturdy shoes
@@ -16,7 +16,7 @@
 - [ ] Nice to have: Flashlight or headlamp
 - [ ] Optional: Insect repellent
 
-[ ] **Optional Additional Tech:**
+**Optional Additional Tech:**
 - [ ] Smart Speakers
 - [ ] Portable Projectors
 - [ ] Power Banks
@@ -24,14 +24,12 @@
 - [ ] Portable Wi-Fi Hotspots
 - [ ] Laptops or Tablets
 
-[ ] **Replace Academy Voyage Specifics:**
-- [ ] Replace Academy materials or handbook
+**Replace Academy Voyage Specifics:**
 - [ ] Writing materials (notebooks, pens)
 - [ ] Workshop-specific tools or equipment
-- [ ] Any required reading materials or texts
-- [ ] Additional items specific to Replace Academy program (to be specified)
+- [ ] Additional items specific to Replace Academy voyage
 
-[ ] **Optional Items:**
+**Optional Items:**
 - [ ] Yoga mat
 - [ ] Camera or smartphone for capturing memories
 - [ ] Binoculars for birdwatching or sightseeing
