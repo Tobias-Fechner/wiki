@@ -1,32 +1,6 @@
 - **Model**: Seagate IronWolf 4TB
 - **Purpose**: Built for NAS systems, optimized for RAID configurations.
-- **Features**: 5900 RPM, AgileArray technology for enhanced RAID performance and reliability.
-### Cost Estimates and Purchase Options
-
-#### Western Digital Red Plus 4TB
-
-- **Price**: Approximately $100-$120 per drive
-- **Total Cost**: Around $200-$240 for 2 drives
-- **Where to Buy**: Amazon, Newegg, Best Buy, or directly from Western Digital's website
-
-#### Seagate IronWolf 4TB
-
-- **Price**: Approximately $100-$120 per drive
-- **Total Cost**: Around $200-$240 for 2 drives
-- **Where to Buy**: Amazon, Newegg, Best Buy, or directly from Seagate's website
-
-### Example Links for Purchase
-
-1. **WD Red Plus 4TB**:
-   - [Amazon](https://www.amazon.com/WD-Red-Plus-Hard-Drive/dp/B08V81D2YT/)
-   - [Newegg](https://www.newegg.com/western-digital-wd40efzx-4tb/p/N82E16822236872)
-   - [Best Buy](https://www.bestbuy.com/site/wd-red-plus-4tb-internal-sata-nas-hard-drive-for-desktops/6453332.p)
-
-2. **Seagate IronWolf 4TB**:
-   - [Amazon](https://www.amazon.com/Seagate-IronWolf-4TB-Internal-ST4000VN008/)
-   - [Newegg](https://www.newegg.com/seagate-ironwolf-st4000vn008-4tb/p/N82E16822178781)
-   - [Best Buy](https://www.bestbuy.com/site/seagate-ironwolf-4tb-internal-sata-nas-hard-drive-for-desktops/5715743.p)
-
+- **Features**: 5900 RPM, AgileArray technology for enhanced RAID performance and reliability
 ### Steps for Setting Up RAID 1
 
 Once you have purchased and received the drives, follow these steps to set up RAID 1:
@@ -74,5 +48,3 @@ Once you have purchased and received the drives, follow these steps to set up RA
   sudo mdadm --detail /dev/md0
   ```
 - **Set up automated monitoring tools** like `prometheus` or `glances` to keep an eye on system performance.
-
-By selecting either the WD Red Plus or Seagate IronWolf drives, you ensure a reliable and cost-effective setup for your local server with RAID 1 configuration, providing redundancy and data protection.
