@@ -11,8 +11,12 @@
             "id": "cf04ac0a5ce37a7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md"
+              }
             }
           }
         ]
@@ -143,6 +151,7 @@
   },
   "active": "cf04ac0a5ce37a7c",
   "lastOpenFiles": [
+    "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
     "Dive Deeper/Shipping/Ship.md",
     "Dive Deeper/Deep Diving Map.md",
     "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
@@ -180,7 +189,6 @@
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Wikimedia Commons.md",
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Tooling Overview.md",
     "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Scheduling.md",
-    "Dive Deeper/Onboarding (Graduating)/Crew Corner/Tooling (for voyagers)/Obsidian.md",
     "Voyages/Re-place Academy",
     "Voyages/Re-place Academy/Metabolic Earth",
     "Voyages/Re-place Academy/Cardano Catalyst Proposal",
