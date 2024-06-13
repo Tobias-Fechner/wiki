@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Data Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Data Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Data Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md"
+                "file": "Dive Deeper/Shipping/Ships/Astralship/Facility/Data Storage.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   },
   "active": "cf04ac0a5ce37a7c",
   "lastOpenFiles": [
-    "Dive Deeper/Shipping/Ships/Astralship/Facility/Untitled.md",
+    "Dive Deeper/Shipping/Ships/Astralship/Facility/Data Storage.md",
     "Dive Deeper/Shipping/Ship.md",
     "Dive Deeper/Deep Diving Map.md",
     "Dive Deeper/Shipping/Ships/Astralship/Pack List.md",
